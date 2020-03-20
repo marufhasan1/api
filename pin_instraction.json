@@ -1,1 +1,1 @@
-[{"D1":"HIGH"},{"D2":"HIGH"},{"D3":"HIGH"}]
+[{"port":"D1","status":"HIGH"},{"port":"D2","status":"HIGH"},{"port":"status","D3":"HIGH"}]
